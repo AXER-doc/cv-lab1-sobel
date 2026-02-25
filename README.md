@@ -30,5 +30,5 @@ venv/bin/pip install -U pip -r requirements.txt
 ## Использование
 
 ```sh
-venv/bin/python -m main
+venv/bin/python -m main FILENAME
 ```
